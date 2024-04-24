@@ -5,3 +5,4 @@
 ```JavaScript
 const obj = { prop: 5, prop2: 10 };
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
